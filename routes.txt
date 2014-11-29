@@ -1,0 +1,100 @@
+Moscow-Perm : 3 Grey
+Moscow-Perm : 3 Red Mountain 1
+Moscow-Astrakhan : 3 Orange
+Moscow-Astrakhan : 3 Green
+Perm-Astrakhan : 3 Blue
+Perm-Omsk : 3 Grey
+Perm-Omsk : 3 White Mountain 1
+Astrakhan-Tbilisi : 1 Black
+Astrakhan-Tbilisi : 1 White
+Astrakhan-Samarkand : 5 Purple Ferry
+Astrakhan-Tehran : 3 Grey Ferry
+Omsk-Samarkand : 4 Green Mountain 1
+Omsk-Dihua : 5 Orange
+Omsk-Krasnoyarsk : 3 Grey
+Omsk-Krasnoyarsk : 3 Purple Mountain 1
+Tbilisi-Ankara : 2 Yellow Mountain 1
+Tbilisi-Tehran : 2 Red Mountain 1
+Tbilisi-Tehran : 2 Orange Mountain 1
+Samarkand-Dihua : 5 Grey
+Samarkand-Dihua : 5 Grey
+Samarkand-Tehran : 3 Black Mountain 1
+Samarkand-Rawalpindi : 2 Blue Mountain 1
+Samarkand-Karachi : 4 White Mountain 1
+Tehran-Baghdad : 1 Blue
+Tehran-Baghdad : 1 Yellow
+Tehran-Shiraz : 2 Green Mountain 2
+Tehran-Shiraz : 2 White Mountain 2
+Dihua-Krasnoyarsk : 3 Black
+Dihua-Peking : 6 Grey
+Dihua-Xian : 5 Yellow
+Krasnoyarsk-Irkutsk : 3 Grey
+Krasnoyarsk-Irkutsk : 3 Blue Mountain 1
+Ankara-Baghdad : 3 Purple
+Ankara-Baghdad : 3 White
+Rawalpindi-Kathmandu : 3 Yellow Mountain 1
+Rawalpindi-Agra : 2 Green Mountain 1
+Rawalpindi-Karachi : 2 Black Mountain 1
+Karachi-Shiraz : 2 Purple Mountain 2
+Karachi-Shiraz : 2 Blue Mountain 2
+Karachi-Agra : 2 Red
+Karachi-Bombay : 2 Grey
+Karachi-Bombay : 2 Grey
+Baghdad-Mecca : 3 Green
+Baghdad-Mecca : 3 Red
+Shiraz-Mecca : 4 Yellow Ferry
+Peking-Ulan Bator : 3 Orange Mountain 1
+Peking-Ulan Bator : 3 Red Mountain 1
+Peking-Xian : 2 Grey
+Peking-Xian : 2 Grey
+Peking-Shanghai : 2 Green
+Peking-Shanghai : 2 Yellow
+Peking-Seoul : 3 Grey Ferry
+Peking-Khabarovsk : 5 Black
+Xian-Lhasa : 4 Blue Mountain 1
+Xian-Mandalay : 4 Purple Mountain 1
+Xian-Macau : 3 Green
+Xian-Macau : 3 White
+Irkutsk-Chita : 2 Grey
+Irkutsk-Chita : 2 White Mountain 1
+Irkutsk-Ulan Bator : 2 Yellow Mountain 2
+Kathmandu-Mandalay : 2 Orange Mountain 2
+Kathmandu-Agra : 2 Purple Mountain 1
+Agra-Bombay : 2 Orange
+Agra-Calcutta : 2 Grey
+Bombay-Colombo : 4 Red Ferry
+Bombay-Colombo : 4 Black Ferry
+Bombay-Calcutta : 3 Yellow
+Bombay-Calcutta : 3 Purple
+Ulan Bator-Chita : 2 Purple
+Shanghai-Macau : 3 Grey
+Shanghai-Taipei : 2 Grey Ferry
+Shanghai-Kobe : 4 Orange Ferry
+Seoul-Vladivostok : 2 Grey Ferry
+Seoul-Kobe : 2 Grey Ferry
+Khabarovsk-Chita : 5 Red
+Khabarovsk-Vladivostok : 2 Grey
+Khabarovsk-Vladivostok : 2 Grey Mountain 1
+Lhasa-Mandalay : 2 Black Mountain 2
+Mandalay-Calcutta : 1 Grey
+Mandalay-Calcutta : 1 Grey
+Mandalay-Rangoon : 1 Grey Mountain 1
+Mandalay-Hanoi : 2 Red Mountain 2
+Calcutta-Rangoon : 2 Blue
+Calcutta-Rangoon : 2 Black
+Calcutta-Colombo : 5 Green Ferry
+Macau-Hanoi : 1 Grey
+Macau-Hanoi : 1 Grey
+Macau-Taipei : 2 Grey Ferry
+Taipei-Kobe : 5 White Ferry
+Taipei-Kobe : 5 Blue Ferry
+Rangoon-Bangkok : 1 Green
+Rangoon-Bangkok : 1 Orange
+Hanoi-Bangkok : 2 White Mountain 1
+Hanoi-Saigon : 3 Orange
+Hanoi-Saigon : 3 Yellow
+Bangkok-Singapore : 3 Black
+Bangkok-Singapore : 3 Blue
+Bangkok-Saigon : 1 Red
+Bangkok-Saigon : 1 Purple
+Saigon-Singapore : 2 Grey Ferry

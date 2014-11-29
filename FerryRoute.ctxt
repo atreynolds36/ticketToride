@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c1\ c2\ lng\ c\ loco
+comment0.target=FerryRoute(City,\ City,\ int,\ java.awt.Color,\ int)
+comment0.text=\r\n\ This\ constructor\ will\ set\ up\ a\ ferry\ route.\ \r\n\ It\ uses\ the\ arguments\ from\ the\ parameters\ in\ order\ \r\n\ to\ set\ up\ the\ ferry\ route.\r\n\ \r\n\ @param\ c1\ the\ name\ of\ first\ city\r\n\ @param\ c2\ the\ name\ of\ second\ city\r\n\ @param\ lng\ the\ length\ of\ the\ route\r\n\ @param\ c\ the\ Color\ on\ the\ route\r\n\ @param\ loco\ the\ number\ of\ locomotives\ on\ the\ route\r\n
+comment1.params=
+comment1.target=int\ getLocomotives()
+comment1.text=\r\n\ This\ method\ will\ return\ the\ number\ of\ locomotive\ on\ the\ route.\r\n\ \r\n\ @return\ the\ number\ of\ locomotives\ on\ a\ route\r\n
+numComments=2

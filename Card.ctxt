@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment0.text=\r\n\ Empty\ constructor\ of\ the\ Card\ class.\ This\ constructor\r\n\ does\ nothing.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ This\ abstract\ toString\ method\ is\ used\ to\ output\ a\ value\ as\ a\ String\r\n\ This\ can\ be\ used\ from\ other\ inherited\ classes.\r\n\ \r\n\ @return\ the\ String\ of\ the\ card\r\n
+numComments=2

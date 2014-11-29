@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=p\ m
+comment0.target=int\ getEndCardScore(Player,\ Map)
+comment0.text=\n\ Returns\ the\ total\ of\ all\ of\ player\ p's\ additional\n\ points\ recieved/subtracted\ from\ their\ destination\n\ cards\n\ \n\ @param\ \ a\ player\n\ \n\ @return\ number\ to\ be\ added\ to\ score\ at\ games\ end\n
+comment1.params=p
+comment1.target=void\ initCities(Player)
+comment1.text=\n\ Sets\ cities\ to\ unvisited\n\ \n\ @param\ p\ current\ player\n
+comment2.params=p\ d\ m
+comment2.target=boolean\ complete(Player,\ DestinationCard,\ Map)
+comment2.text=\n\ Completes\ a\ destination\ card\ for\ player\ p\ on\ map\ m\n\ \n\ @param\ p\ current\ player\n\ @param\ d\ current\ destination\ card\n\ @param\ m\ current\ map\n\ \n\ @return\ whether\ the\ card\ route\ has\ been\ completed\n
+comment3.params=routes\ start\ end
+comment3.target=boolean\ mdfs(java.util.ArrayList,\ City,\ City)
+comment3.text=\n\ Modified\ depth\ first\ search\ on\ routes\ from\ start\ to\ end\n\ \n\ @param\ routes\ arraylist\ of\ routes\ connected\ by\ player\ p\n\ @param\ start\ start\ city\n\ @param\ end\ desired\ end\ city\n\ \n\ @return\ whether\ the\ end\ city\ has\ been\ reached\n
+comment4.params=p
+comment4.target=int\ explorerBonus(Player)
+comment4.text=\n\ Calculates\ longest\ path\ for\ player\ p\n\ \n\ @param\ p\ current\ player\n\ \n\ @return\ longest\ number\ of\ connected\ cities\n
+comment5.params=routes\ city
+comment5.target=void\ dfs(java.util.ArrayList,\ City)
+comment5.text=\n\ Depth\ first\ search\ on\ routes\ starting\ at\ City\ city\n\ \n\ @param\ routes\ arraylist\ of\ connected\ routes\n\ @param\ city\ start\ city\n
+numComments=6

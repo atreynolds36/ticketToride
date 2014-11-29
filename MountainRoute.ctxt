@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c1\ c2\ lng\ c\ x
+comment0.target=MountainRoute(City,\ City,\ int,\ java.awt.Color,\ int)
+comment0.text=\r\n\ This\ constructor\ will\ set\ up\ a\ mountain\ route.\ \r\n\ It\ uses\ the\ arguments\ from\ the\ parameters\ \r\n\ in\ order\ to\ set\ up\ the\ mountain\ route.\r\n\ \r\n\ @param\ c1\ the\ name\ of\ first\ city\r\n\ @param\ c2\ the\ name\ of\ second\ city\r\n\ @param\ lng\ the\ length\ of\ the\ route\r\n\ @param\ c\ the\ Color\ on\ the\ route\r\n\ @param\ x\ the\ number\ of\ X's\ on\ the\ mountain\ of\ that\ route\r\n
+comment1.params=
+comment1.target=int\ getXs()
+comment1.text=\r\n\ This\ method\ will\ return\ the\ number\ of\ X's\ on\ the\ route,\ \r\n\ where\ the\ X\ is\ the\ number\ of\ mountains\ on\ that\ specific\ route.\r\n\ \r\n\ @return\ the\ number\ of\ mountains\ on\ a\ route\r\n
+numComments=2
